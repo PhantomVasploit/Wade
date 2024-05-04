@@ -342,6 +342,9 @@ h1.brand a img {
 .soc-icons li.icon5 a {
 	background: url(../img/soc-icon-5.png) 0 0 no-repeat;
 }
+.soc-icons li.icon6 a {
+	background: url(../img/instagram.png) 0 0 no-repeat;
+}
 .soc-icons li a:hover {
 	background-position: 0 bottom;
 }
