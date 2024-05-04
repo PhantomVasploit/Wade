@@ -182,9 +182,9 @@
 })(jQuery)
 $(window).load(function(){
    $('#contact-form2').forms({
-	ownerEmail:'#'
+	ownerEmail:'mugunajim@gmail.com'
    })
    $('#contact-form').forms({
-	ownerEmail:'#'
+	ownerEmail:'mugunajim@gmail.com'
    })
 })
