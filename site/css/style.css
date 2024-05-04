@@ -884,20 +884,46 @@ h1.brand a img {
 	margin-bottom: 22px;
 	width: 100%;
 }
+
+
 .list-products {
 	margin-top: -28px;
+	list-style-type: none;
 }
+
 .list-products li {
 	overflow: hidden;
-	display: block;
+	display: flex;
+	align-items: center; 
 	margin-top: 28px;
+	clear: both;
 }
+
 .list-products li a.magnifier {
-	margin-bottom: 26px;
+	height: 200px; 
+	margin-right: 10px;
 }
-.list-products li a.magnifier img {
-	width: 100%;
+
+.list-products li .text {
+	flex: 1; 
 }
+
+.list-products li p.lead {
+	margin: 0; 
+}
+
+.list-products li p.description {
+	margin-top: 5px; 
+	text-align: justify;
+}
+
+.product-image {
+	display: block;
+	height: 200px; 
+}
+
+
+
 .list-blog {
 	margin: 0;
 }
