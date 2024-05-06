@@ -914,6 +914,7 @@ h1.brand a img {
 
 .list-products li p.description {
 	margin-top: 5px; 
+	margin-right: 5px;
 	text-align: justify;
 }
 
