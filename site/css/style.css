@@ -678,7 +678,7 @@ h1.brand a img {
 	width: auto;
 	margin-left: 0;
 }
-.list_carousel .prev, .list_carousel .next {
+/* .list_carousel .prev, .list_carousel .next {
 	display: inline-block;
 	width: 22px;
 	height: 22px;
@@ -698,7 +698,7 @@ h1.brand a img {
 }
 .list_carousel .prev:hover, .list_carousel .next:hover {
 	background-position: 0 bottom;
-}
+} */
 /**/
 .block-2 blockquote {
 	font-size: 16px;
